@@ -1,2 +1,3 @@
+cd Downloads/
 sudo dpkg -i teamviewer_15.3.2682_amd64.deb
 sudo apt-get -f install
